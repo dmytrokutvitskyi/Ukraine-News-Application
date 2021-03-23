@@ -4,5 +4,5 @@
 import Foundation
 
 struct APIKey {
-	static let key = "YOUR_NEWSAPI_KEY_HERE"
+	static let key = "4d14298f45f4459285462aa751cdedd"
 }
